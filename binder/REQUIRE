@@ -1,3 +1,7 @@
 julia 1.0
 
 Turing#master
+Plots
+StatPlots
+Bijectors
+Random
